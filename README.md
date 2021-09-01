@@ -1,24 +1,10 @@
-# project5-shoppingbag
+# Application E-shop en Vue3
 
-## Project setup
-```
-npm install
-```
+## fonctionnalités
+- addToBag
+- removeFromBag
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Techno utilisée
+- VueRouter
+- Vuex
+- LocalStorage
